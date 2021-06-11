@@ -1,0 +1,20 @@
+h1 {
+  color: blue;
+  font-family: "Times New Roman", Times, serif;
+  text-align: center;
+  text-decoration: underline;
+  text-shadow: 2px 2px;
+}
+ul {
+  color: white;
+}
+li {
+  color: white;
+  font-family: verdana;
+  text-align: left;
+}
+body {
+  font-family: sans-serif;
+  font-size: 20px;
+  background-color: skyblue;
+}
